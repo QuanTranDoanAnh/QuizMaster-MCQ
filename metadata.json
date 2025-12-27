@@ -1,0 +1,5 @@
+{
+  "name": "QuizMaster MCQ",
+  "description": "A web-based flashcard and quiz application for multi-choice questions using Markdown files.",
+  "requestFramePermissions": []
+}
